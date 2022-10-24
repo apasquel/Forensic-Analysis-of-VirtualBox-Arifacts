@@ -1,5 +1,5 @@
 # Forensic-Analysis-of-VirtualBox-Arifacts
-This is way of publizing my research manuscript titled Forensic Analysis of VirtualBox Artifacts. The idea was to answer the question: "How can a Digital Forensic Analyst investigate a VirtualBox VM found during an investigation?". As the paper explains, typically VirtualBox VMs are popular with script kiddies and potentially more advanced actors. Therefore, an analyst will need to know how to investigated INTO the guest OS. 
+This is my way of publizing my research manuscript titled Forensic Analysis of VirtualBox Artifacts. The idea was to answer the question: "How can a Digital Forensic Analyst investigate a VirtualBox VM found during an investigation?". As the paper explains, typically VirtualBox VMs are popular with script kiddies and potentially more advanced actors. Therefore, an analyst will need to know how to investigated INTO the guest OS. 
 
 This work was completed during my studies at Bloomsburg University of Pennsylvania (now called Commonwealth University of Pennsylvania-- a merger). I could not have done this work without them. 
 
